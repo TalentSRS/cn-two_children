@@ -10,7 +10,7 @@ tags:
 description: |
   Chinese title is 两个想上天的孩子.
 
-  Two Children Seeking the Joy Bridge is in the first level of Chinese BreezTwo
+  *Two Children Seeking the Joy Bridge* is in the first level of Chinese BreezTwo
   Children Seeking the Joy Bridgee which contains approximately 300 words.
 
   Description of the book: Two children, one aged seven and the other eight, run
@@ -25,28 +25,28 @@ description: |
 units:
  - title: 1. 孩子不见了
    content: chapter.md
-   stencils: cn_story.secret_garden.01.txt.yaml
+   stencils: cn_story.two_children.01.txt.yaml
  - title: 2. 找警察
    content: chapter.md
-   stencils: cn_story.secret_garden.02.txt.yaml
+   stencils: cn_story.two_children.02.txt.yaml
  - title: 3. “寻人启示”
    content: chapter.md
-   stencils: cn_story.secret_garden.03.txt.yaml
+   stencils: cn_story.two_children.03.txt.yaml
  - title: 4. 来电话了
    content: chapter.md
-   stencils: cn_story.secret_garden.04.txt.yaml
+   stencils: cn_story.two_children.04.txt.yaml
  - title: 5. 抓到坏人
    content: chapter.md
-   stencils: cn_story.secret_garden.05.txt.yaml
+   stencils: cn_story.two_children.05.txt.yaml
  - title: 6. 两个买飞机票的孩子
    content: chapter.md
-   stencils: cn_story.secret_garden.06.txt.yaml
+   stencils: cn_story.two_children.06.txt.yaml
  - title: 7. 真真说的故事
    content: chapter.md
-   stencils: cn_story.secret_garden.07.txt.yaml
+   stencils: cn_story.two_children.07.txt.yaml
  - title: 8. 明明说的故事
    content: chapter.md
-   stencils: cn_story.secret_garden.08.txt.yaml
+   stencils: cn_story.two_children.08.txt.yaml
  - title: 9. 还是要上天
    content: chapter.md
-   stencils: cn_story.secret_garden.09.txt.yaml
+   stencils: cn_story.two_children.09.txt.yaml
