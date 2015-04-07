@@ -1,0 +1,64 @@
+- chinese: 不要说话，好不好？
+  english:
+  - Quit talking, will you?
+  type: chinese
+  comment: ! 'Covers: 好不好. Cost: 0.0'
+- chinese: 你真是太好了。
+  english:
+  - You're really wonderful.
+  - You're just wonderful.
+  type: chinese
+  comment: ! 'Covers: 太好了. Cost: 0.0'
+- chinese: 他们坐车去芝加哥。
+  english:
+  - They went to Chicago by car.
+  type: chinese
+  comment: ! 'Covers: 坐车. Cost: 3.769317753486619e-2'
+- chinese: 我已经不带眼镜了。
+  english:
+  - I don't wear glasses anymore.
+  type: chinese
+  comment: ! 'Covers: 不带. Cost: 4.1981528127623846e-2'
+- chinese: 北京那么快地改变。
+  english:
+  - Beijing is changing so rapidly.
+  type: chinese
+  comment: ! 'Covers: 北京. Cost: 4.512635379061372e-3'
+- chinese: “你什么时候回来？”“这都要看天气。”
+  english:
+  - ! '"When will you be back?" "It all depends on the weather."'
+  - ! '"When will you come back?" "It all depends on the weather."'
+  pinyin: nǐ shénmeshíhou huílai zhè dōu yàokàn tiānqì
+  type: chinese
+  comment: ! 'Covers: 要看. Cost: 0.0'
+- chinese: 他学了两个小时。
+  english:
+  - He has been studying for two hours.
+  type: chinese
+  comment: ! 'Covers: 学. Cost: 0.0'
+- chinese: 我们每个星期四下午开会。
+  english:
+  - We have meetings every Thursday afternoon.
+  type: chinese
+  comment: ! 'Covers: 星期四. Cost: 0.0'
+- chinese: 「他会来吗？」「我看不会了。」
+  english:
+  - ! '"Will he come?" "No, I don''t think so."'
+  pinyin: tā huì lái ma wǒ kàn bùhuì le
+  type: chinese
+  comment: ! 'Covers: 不会. Cost: 0.0'
+- chinese: 他晚了30分钟才到。
+  english:
+  - He came 30 minutes late.
+  type: chinese
+  comment: ! 'Covers: 分钟. Cost: 0.0'
+- chinese: 小孩子们到公园去玩玩。
+  english:
+  - The children went to play in the park.
+  type: chinese
+  comment: ! 'Covers: 小孩子. Cost: 0.0'
+- chinese: 他听到有人从后面叫他的名字。
+  english:
+  - He heard his name called from behind.
+  type: chinese
+  comment: ! 'Covers: 听到. Cost: 0.0'

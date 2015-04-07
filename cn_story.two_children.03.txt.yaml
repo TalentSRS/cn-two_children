@@ -1,0 +1,97 @@
+- chinese: 他不能帮你。
+  english:
+  - He can't help you.
+  type: chinese
+  comment: ! 'Covers: 不能. Cost: 0.0'
+- chinese: 你们不能这么做。
+  english:
+  - You cannot do this.
+  type: chinese
+  comment: ! 'Covers: 这么. Cost: 0.0'
+- chinese: 你为什么那么高兴？
+  english:
+  - Why are you so happy?
+  type: chinese
+  comment: ! 'Covers: 那么. Cost: 0.0'
+- chinese: 你有没有手机？
+  english:
+  - Do you have a mobile phone?
+  type: chinese
+  comment: ! 'Covers: 手机. Cost: 0.0'
+- chinese: 他有很多钱。
+  english:
+  - He has a lot of money.
+  type: chinese
+  comment: ! 'Covers: 钱. Cost: 0.0'
+- chinese: 你有几块钱？
+  english:
+  - How much money do you have?
+  type: chinese
+  comment: ! 'Covers: 块. Cost: 1.4955507365587378e-3'
+- chinese: 她没有走远。
+  english:
+  - She didn't go far.
+  type: chinese
+  comment: ! 'Covers: 远. Cost: 0.0'
+- chinese: 不知道他什么时候来。
+  english:
+  - I don't know when he's coming.
+  type: chinese
+  comment: ! 'Covers: 知道. Cost: 0.0'
+- chinese: 她在这里有不少朋友。
+  english:
+  - She has a good many friends here.
+  type: chinese
+  comment: ! 'Covers: 不少. Cost: 0.0'
+- chinese: Marco觉得他写得很好。
+  english:
+  - Marco thinks he writes well.
+  type: chinese
+  comment: ! 'Covers: 写. Cost: 0.0'
+- chinese: 你还有别的问题吗？
+  english:
+  - Do you have any further questions?
+  pinyin: nǐ háiyǒu biéde wèntí ma
+  type: chinese
+  comment: ! 'Covers: 还有. Cost: 0.0'
+- chinese: 你的笔在书下面。
+  english:
+  - Your pen is under the book.
+  type: chinese
+  comment: ! 'Covers: 下面. Cost: 1.0101010101010102e-2'
+- chinese: 他真是一个好人。
+  english:
+  - He really is a good person.
+  pinyin: tā zhēnshi yī gè hǎo rén
+  type: chinese
+  comment: ! 'Covers: 真是. Cost: 0.0'
+- chinese: 那些书，有的好看，有的不好看。
+  english:
+  - Of those books, some are good reads, some are not.
+  type: chinese
+  comment: ! 'Covers: 有的. Cost: 0.0'
+- chinese: 他写下这个电话号码了。
+  english:
+  - He wrote down the telephone number.
+  type: chinese
+  comment: ! 'Covers: 号码. Cost: 0.0'
+- chinese: 您的孩子是男是女？
+  english:
+  - Is your child a boy or a girl?
+  type: chinese
+  comment: ! 'Covers: 男. Cost: 0.0'
+- chinese: 他对我说：「请你帮我一个忙。」
+  english:
+  - He said to me, "Please do me a favor".
+  type: chinese
+  comment: ! 'Covers: 请. Cost: 0.0'
+- chinese: 那小女孩把鼻子贴在窗户上。
+  english:
+  - The child pressed her nose against the window.
+  type: chinese
+  comment: ! 'Covers: 贴. Cost: 2.4539877300613498e-2'
+- chinese: 大家说这家饭馆儿的菜又好吃又便宜。
+  english:
+  - Everyone says the food in this restaurant is both delicious and inexpensive.
+  type: chinese
+  comment: ! 'Covers: 饭馆儿. Cost: 3.90015600624025e-2'

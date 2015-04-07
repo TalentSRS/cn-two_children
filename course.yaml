@@ -1,0 +1,52 @@
+parents:
+ - https://github.com/TalentSRS/cn-comprehensive
+title: Two Children Seeking the Joy Bridge
+tags:
+ - Graded Reader
+ - Story
+ - 'Non-free'
+ - Chinese Breeze
+ - Level 1
+description: |
+  Chinese title is 两个想上天的孩子.
+
+  Two Children Seeking the Joy Bridge is in the first level of Chinese BreezTwo
+  Children Seeking the Joy Bridgee which contains approximately 300 words.
+
+  Description of the book: Two children, one aged seven and the other eight, run
+  away to the airport to buy “air-tickets”. Beyond their wildest dreams, crooks
+  call their parents and demand ransom! And of course, nobody even knows the
+  location of the Joy Bridge that the two children seek to visit. A mystery
+  adventure sure to thrill and delight readers!
+
+  This course covers all of the vocabulary in the 9 chapters.
+
+  You can buy the book/ebook here: <http://www.chinesebreeze.net/chinese-breeze/chinese-breeze-level-1/level-1-two-children-seeking-the-joy-bridge/>
+units:
+ - title: 1. 孩子不见了
+   content: chapter.md
+   stencils: cn_story.secret_garden.01.txt.yaml
+ - title: 2. 找警察
+   content: chapter.md
+   stencils: cn_story.secret_garden.02.txt.yaml
+ - title: 3. “寻人启示”
+   content: chapter.md
+   stencils: cn_story.secret_garden.03.txt.yaml
+ - title: 4. 来电话了
+   content: chapter.md
+   stencils: cn_story.secret_garden.04.txt.yaml
+ - title: 5. 抓到坏人
+   content: chapter.md
+   stencils: cn_story.secret_garden.05.txt.yaml
+ - title: 6. 两个买飞机票的孩子
+   content: chapter.md
+   stencils: cn_story.secret_garden.06.txt.yaml
+ - title: 7. 真真说的故事
+   content: chapter.md
+   stencils: cn_story.secret_garden.07.txt.yaml
+ - title: 8. 明明说的故事
+   content: chapter.md
+   stencils: cn_story.secret_garden.08.txt.yaml
+ - title: 9. 还是要上天
+   content: chapter.md
+   stencils: cn_story.secret_garden.09.txt.yaml
