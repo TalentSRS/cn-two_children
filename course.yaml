@@ -23,31 +23,23 @@ description: |
   This course covers all of the vocabulary in the 9 chapters.
 
   You can buy the book/ebook here: <http://www.chinesebreeze.net/chinese-breeze/chinese-breeze-level-1/level-1-two-children-seeking-the-joy-bridge/>
+stencils: cn_story.two_children.txt.yaml
 units:
  - title: 1. 孩子不见了
    content: chapter.md
-   stencils: cn_story.two_children.01.txt.yaml
  - title: 2. 找警察
    content: chapter.md
-   stencils: cn_story.two_children.02.txt.yaml
  - title: 3. “寻人启示”
    content: chapter.md
-   stencils: cn_story.two_children.03.txt.yaml
  - title: 4. 来电话了
    content: chapter.md
-   stencils: cn_story.two_children.04.txt.yaml
  - title: 5. 抓到坏人
    content: chapter.md
-   stencils: cn_story.two_children.05.txt.yaml
  - title: 6. 两个买飞机票的孩子
    content: chapter.md
-   stencils: cn_story.two_children.06.txt.yaml
  - title: 7. 真真说的故事
    content: chapter.md
-   stencils: cn_story.two_children.07.txt.yaml
  - title: 8. 明明说的故事
    content: chapter.md
-   stencils: cn_story.two_children.08.txt.yaml
  - title: 9. 还是要上天
    content: chapter.md
-   stencils: cn_story.two_children.09.txt.yaml
